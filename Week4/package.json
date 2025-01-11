@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "Bootstrapping Express API",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imeshaaaaa/SIT725.git"
+  },
+  "author": "Imesha Ilangasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imeshaaaaa/SIT725/issues"
+  },
+  "homepage": "https://github.com/Imeshaaaaa/SIT725#readme"
+}
