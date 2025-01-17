@@ -1,13 +1,14 @@
 {
   "dependencies": {
-    "express": "^4.21.1",
-    "materialize-css": "^1.0.0-rc.2",
+    "express": "^4.21.2",
+    "materialize-css": "^1.0.0",
+    "mongodb": "^6.12.0",
     "path": "^0.12.7"
   },
   "scripts": {
     "start": "node server.js"
   },
-  "name": "week3",
+  "name": "week4",
   "version": "1.0.0",
   "description": "Bootstrapping Express API",
   "main": "server.js",
